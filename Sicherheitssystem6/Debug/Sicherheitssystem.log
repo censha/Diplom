@@ -1,0 +1,52 @@
+﻿  AnalysisHierarchyLSB.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\AnalysisHierarchyLSB.cpp(345,20): warning C4018: <: несоответствие типов со знаком и без знака
+  BytesArray.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\BytesArray.cpp(10,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\BytesArray.cpp(34,14): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  DoubleLinearGen.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+  GammingAndLoad.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\GammingAndLoad.cpp(20,8): warning C4244: инициализация: преобразование "Int64" в "int", возможна потеря данных
+  Stego.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+  StegoMetrics.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\StegoMetrics.cpp(36,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Validators.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\Validators.cpp(32,20): warning C4244: инициализация: преобразование "Int64" в "int", возможна потеря данных
+  Создание кода...
+  dllmain.cpp
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,24): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(74,15): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\stdafx.h(77,26): warning C4244: return: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(39,61): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(39,44): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(39,28): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(39,12): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(38,44): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(38,28): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(60,61): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(60,44): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(60,28): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(60,12): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(59,44): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\dllmain.cpp(59,28): warning C4244: аргумент: преобразование "Int64" в "int", возможна потеря данных
+  Sicherheitssystem.vcxproj -> C:\Users\тотсамый\Desktop\Диплом\Sicherheitssystem6\Debug\Sicherheitssystem.dll
